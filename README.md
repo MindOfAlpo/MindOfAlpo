@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MindOfAlpo
+- 👋 Hi, I’m Aaron Ponce
 - 👀 I am searching for a position in the data analytics world, awaiting an opportunity to provide value.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Kaggle Projects. 
